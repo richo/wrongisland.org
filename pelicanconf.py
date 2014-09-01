@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Richo Healey'
 SITENAME = u'Wrong Island Con'
-SITEURL = ''
+SITEURL = 'http://wrongisland.org'
 
 PATH = 'content'
 
@@ -21,7 +21,7 @@ TRANSLATION_FEED_ATOM = None
 LINKS = ()
 
 # Social widget
-SOCIAL = (('https://twitter.com/WrongIslandCon', '#'),
+SOCIAL = (('the twitter', 'https://twitter.com/WrongIslandCon'),
           )
 
 DEFAULT_PAGINATION = False
