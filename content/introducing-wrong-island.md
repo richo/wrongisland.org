@@ -4,7 +4,9 @@ Category:
 
 Wrong Island Con: It is happening.
 
-Born of a bunch of Australin infosec jerks getting sent to the Wrong Island on our pilgrimage to kiwicon 7 last year, we figured we'd probably best head to the wrong island for a couple of days to warm up for kiwicon proper. Should you join us? Yes you should.
+Born of a bunch of Australin infosec jerks getting sent to the Wrong Island on our pilgrimage to kiwicon 7 last year, we figured we'd probably best head intentionally to the Wrong Island for a couple of days to warm up for kiwicon proper.
+
+Should you join us? Yes, you absolutely should.
 
 - Where? The Twisted Hop.
 - - 617 Ferry Road, Woolston, Christchurch 8023
