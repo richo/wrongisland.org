@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Richo Healey'
+AUTHOR = u'richo'
 SITENAME = u'Wrong Island Con'
 SITEURL = 'http://wrongisland.org'
 
