@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Wrong Island Con</title><link href="http://wrongisland.org/" rel="alternate"></link><link href="http://wrongisland.org/feeds/richo.atom.xml" rel="self"></link><id>http://wrongisland.org/</id><updated>2014-09-11T08:44:00+10:00</updated><entry><title>Tickets are on sale!</title><link href="http://wrongisland.org/tickets-are-on-sale.html" rel="alternate"></link><updated>2014-09-11T08:44:00+10:00</updated><author><name>richo</name></author><id>tag:wrongisland.org,2014-09-11:tickets-are-on-sale.html</id><summary type="html">&lt;p&gt;The event is live! You can buy tickets &lt;a href="https://www.eventbrite.com.au/e/wrongislandcon-tickets-12440177907"&gt;on the eventbrite thing&lt;/a&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Wrong Island Con</title><link href="http://wrongisland.org/" rel="alternate"></link><link href="http://wrongisland.org/feeds/richo.atom.xml" rel="self"></link><id>http://wrongisland.org/</id><updated>2014-09-11T08:44:00+10:00</updated><entry><title>CFP is open</title><link href="http://wrongisland.org/cfp-is-open.html" rel="alternate"></link><updated>2014-09-11T08:44:00+10:00</updated><author><name>richo</name></author><id>tag:wrongisland.org,2014-09-11:cfp-is-open.html</id><summary type="html">&lt;p&gt;The CFP is open! We'd love to have you short (15-20 minute) lightning talk on
+something interesting and nominally computer security related. Leave out the
+context, we want to see your One Weird Trick. Background is best discussed over
+beers afterward where you can work out how much you want to frieNDA this chump
+in anyway.&lt;/p&gt;
+&lt;p&gt;Please send through:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Handle:&lt;/li&gt;
+&lt;li&gt;Talk Title:&lt;/li&gt;
+&lt;li&gt;Brief overview:&lt;/li&gt;
+&lt;li&gt;Bio:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To richo@psych0tik.net&lt;/p&gt;
+&lt;p&gt;I'm also suitably convinced that this thing will happen that I'm looking for
+ONE (1) ((11!1!!!)) sponsor. If this sounds interesting to you, get in touch to
+discuss terms.&lt;/p&gt;
+&lt;p&gt;Till NZ,&lt;/p&gt;
+&lt;p&gt;richo&lt;/p&gt;</summary></entry><entry><title>Tickets are on sale!</title><link href="http://wrongisland.org/tickets-are-on-sale.html" rel="alternate"></link><updated>2014-09-11T08:44:00+10:00</updated><author><name>richo</name></author><id>tag:wrongisland.org,2014-09-11:tickets-are-on-sale.html</id><summary type="html">&lt;p&gt;The event is live! You can buy tickets &lt;a href="https://www.eventbrite.com.au/e/wrongislandcon-tickets-12440177907"&gt;on the eventbrite thing&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Relatedly, this officially opens the CFP. If you're interested in giving a
 lightning talk (15-30 mins) about something interesting and security/computer
 related, send a thing to richo@psych0tik.net&lt;/p&gt;</summary></entry><entry><title>Introducing Wrong Island</title><link href="http://wrongisland.org/introducing-wrong-island.html" rel="alternate"></link><updated>2014-09-01T07:44:00+10:00</updated><author><name>richo</name></author><id>tag:wrongisland.org,2014-09-01:introducing-wrong-island.html</id><summary type="html">&lt;p&gt;Wrong Island Con: It is happening.&lt;/p&gt;
