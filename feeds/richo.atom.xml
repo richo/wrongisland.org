@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Wrong Island Con</title><link href="http://wrongisland.org/" rel="alternate"></link><link href="http://wrongisland.org/feeds/richo.atom.xml" rel="self"></link><id>http://wrongisland.org/</id><updated>2014-09-11T08:44:00+10:00</updated><entry><title>CFP is open</title><link href="http://wrongisland.org/cfp-is-open.html" rel="alternate"></link><updated>2014-09-11T08:44:00+10:00</updated><author><name>richo</name></author><id>tag:wrongisland.org,2014-09-11:cfp-is-open.html</id><summary type="html">&lt;p&gt;The CFP is open! We'd love to have you short (15-20 minute) lightning talk on
-something interesting and nominally computer security related. Leave out the
-context, we want to see your One Weird Trick. Background is best discussed over
-beers afterward where you can work out how much you want to frieNDA this chump
-in anyway.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Wrong Island Con</title><link href="http://wrongisland.org/" rel="alternate"></link><link href="http://wrongisland.org/feeds/richo.atom.xml" rel="self"></link><id>http://wrongisland.org/</id><updated>2014-09-11T08:44:00+10:00</updated><entry><title>CFP is open</title><link href="http://wrongisland.org/cfp-is-open.html" rel="alternate"></link><updated>2014-09-11T08:44:00+10:00</updated><author><name>richo</name></author><id>tag:wrongisland.org,2014-09-11:cfp-is-open.html</id><summary type="html">&lt;p&gt;The CFP is open!&lt;/p&gt;
+&lt;p&gt;We'd love to have your short (15-20 minute) lightning talk on something
+interesting and nominally computer security related. Leave out the context, we
+want to see your One Weird Trick. Background is best discussed over beers
+afterward where you can work out how much you want to frieNDA this chump in
+anyway.&lt;/p&gt;
 &lt;p&gt;Please send through:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Handle:&lt;/li&gt;
