@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wrong Island Con</title><link>http://wrongisland.org/</link><description></description><atom:link href="http://wrongisland.org/feeds/richo.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 11 Sep 2014 08:44:00 +1000</lastBuildDate><item><title>CFP is open</title><link>http://wrongisland.org/cfp-is-open.html</link><description>&lt;p&gt;The CFP is open!&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wrong Island Con</title><link>https://wrongisland.org/</link><description></description><atom:link href="https://wrongisland.org/feeds/richo.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 11 Sep 2014 08:44:00 +1000</lastBuildDate><item><title>CFP is open</title><link>https://wrongisland.org/cfp-is-open.html</link><description>&lt;p&gt;The CFP is open!&lt;/p&gt;
 &lt;p&gt;We'd love to have your short (15-20 minute) lightning talk on something
 interesting and nominally computer security related. Leave out the context, we
 want to see your One Weird Trick. Background is best discussed over beers
@@ -17,10 +17,10 @@ anyway.&lt;/p&gt;
 ONE (1) ((11!1!!!)) sponsor. If this sounds interesting to you, get in touch to
 discuss terms.&lt;/p&gt;
 &lt;p&gt;Till NZ,&lt;/p&gt;
-&lt;p&gt;richo&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">richo</dc:creator><pubDate>Thu, 11 Sep 2014 08:44:00 +1000</pubDate><guid>tag:wrongisland.org,2014-09-11:cfp-is-open.html</guid></item><item><title>Tickets are on sale!</title><link>http://wrongisland.org/tickets-are-on-sale.html</link><description>&lt;p&gt;The event is live! You can buy tickets &lt;a href="https://www.eventbrite.com.au/e/wrongislandcon-tickets-12440177907"&gt;on the eventbrite thing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;richo&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">richo</dc:creator><pubDate>Thu, 11 Sep 2014 08:44:00 +1000</pubDate><guid>tag:wrongisland.org,2014-09-11:cfp-is-open.html</guid></item><item><title>Tickets are on sale!</title><link>https://wrongisland.org/tickets-are-on-sale.html</link><description>&lt;p&gt;The event is live! You can buy tickets &lt;a href="https://www.eventbrite.com.au/e/wrongislandcon-tickets-12440177907"&gt;on the eventbrite thing&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Relatedly, this officially opens the CFP. If you're interested in giving a
 lightning talk (15-30 mins) about something interesting and security/computer
-related, send a thing to richo@psych0tik.net&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">richo</dc:creator><pubDate>Thu, 11 Sep 2014 08:44:00 +1000</pubDate><guid>tag:wrongisland.org,2014-09-11:tickets-are-on-sale.html</guid></item><item><title>Introducing Wrong Island</title><link>http://wrongisland.org/introducing-wrong-island.html</link><description>&lt;p&gt;Wrong Island Con: It is happening.&lt;/p&gt;
+related, send a thing to richo@psych0tik.net&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">richo</dc:creator><pubDate>Thu, 11 Sep 2014 08:44:00 +1000</pubDate><guid>tag:wrongisland.org,2014-09-11:tickets-are-on-sale.html</guid></item><item><title>Introducing Wrong Island</title><link>https://wrongisland.org/introducing-wrong-island.html</link><description>&lt;p&gt;Wrong Island Con: It is happening.&lt;/p&gt;
 &lt;p&gt;Born of a bunch of Australin infosec jerks getting sent to the Wrong Island on our pilgrimage to kiwicon 7 last year, we figured we'd probably best head intentionally to the Wrong Island for a couple of days to warm up for kiwicon proper.&lt;/p&gt;
 &lt;p&gt;Should you join us? Yes, you absolutely should.&lt;/p&gt;
 &lt;ul&gt;
