@@ -1,4 +1,4 @@
-Title: About
+Title: Venue
 Date: 2014-10-15 4:18
 
 Wrong Island will be held at The Twisted Hop:
