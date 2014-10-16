@@ -1,6 +1,5 @@
 Title: CFP is open
 Date: 2014-09-11 08:44
-Category:
 
 The CFP is open!
 

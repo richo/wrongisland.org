@@ -1,6 +1,5 @@
 Title: Introducing Wrong Island
 Date: 2014-09-01 07:44
-Category:
 
 Wrong Island Con: It is happening.
 

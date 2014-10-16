@@ -1,6 +1,5 @@
 Title: Tickets are on sale!
 Date: 2014-09-11 08:44
-Category:
 
 The event is live! You can buy tickets [on the eventbrite thing][eventbrite]
 
