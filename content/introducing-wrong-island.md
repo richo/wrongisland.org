@@ -3,7 +3,7 @@ Date: 2014-09-01 07:44
 
 Wrong Island Con: It is happening.
 
-Born of a bunch of Australin infosec jerks getting sent to the Wrong Island on our pilgrimage to kiwicon 7 last year, we figured we'd probably best head intentionally to the Wrong Island for a couple of days to warm up for kiwicon proper.
+Born of a bunch of Australian infosec jerks getting sent to the Wrong Island on our pilgrimage to kiwicon 7 last year, we figured we'd probably best head intentionally to the Wrong Island for a couple of days to warm up for kiwicon proper.
 
 Should you join us? Yes, you absolutely should.
 
