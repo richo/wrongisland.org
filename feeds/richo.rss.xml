@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wrong Island Con</title><link>https://wrongisland.org/</link><description></description><atom:link href="https://wrongisland.org/feeds/richo.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 11 Sep 2014 08:44:00 +1000</lastBuildDate><item><title>CFP is open</title><link>https://wrongisland.org/cfp-is-open.html</link><description>&lt;p&gt;The CFP is open!&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wrong Island Con</title><link>https://wrongisland.org/</link><description></description><atom:link href="https://wrongisland.org/feeds/richo.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 31 Oct 2014 11:44:00 +1100</lastBuildDate><item><title>First Round of Speakers</title><link>https://wrongisland.org/first-round-of-speakers.html</link><description>&lt;p&gt;Today we're delighted to announce our first batch of speakers. Without futher adieu:&lt;/p&gt;
+&lt;h3&gt;Peter Fillmore: Controlling a $20 RC car with a $420 SDR&lt;/h3&gt;
+&lt;h3&gt;Mike Ryan: Hacking bluetooth keyboards&lt;/h3&gt;
+&lt;h3&gt;AmmonRa: Liberating my bio-data&lt;/h3&gt;
+&lt;p&gt;Read more on the &lt;a href="/pages/speakers.html"&gt;speakers&lt;/a&gt; page.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">richo</dc:creator><pubDate>Fri, 31 Oct 2014 11:44:00 +1100</pubDate><guid>tag:wrongisland.org,2014-10-31:first-round-of-speakers.html</guid></item><item><title>CFP is open</title><link>https://wrongisland.org/cfp-is-open.html</link><description>&lt;p&gt;The CFP is open!&lt;/p&gt;
 &lt;p&gt;We'd love to have your short (15-20 minute) lightning talk on something
 interesting and nominally computer security related. Leave out the context, we
 want to see your One Weird Trick. Background is best discussed over beers
