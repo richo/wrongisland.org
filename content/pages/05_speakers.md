@@ -65,7 +65,7 @@ The scourge of Carpathia, the sorrow of Moldavia. Named after an OK drink at a
 Melbourne bar, snare's hugs are internationally famous. He does computer stuff
 as a thin guise for hug distribution.
 
-## rzn (@_rezin_): Bus-master Baiting
+## rzn (@\_rezin\_): Bus-master Baiting
 
 After giving a failed talk at kiwicon last year involving DMA attacks using an
 FPGA development board and an aggressively recalled Bplus TH05 Thunderbolt to
