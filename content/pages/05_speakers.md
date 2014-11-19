@@ -87,3 +87,28 @@ actions... sometimes it's just a fun way to access systems and annoy other
 users who don't realise you're there.
 
 Neal Wise ( @y011 [that's with a zero, yo]) runs @assurance and rocks the -vvv
+
+## Matthew 'mjg59' Garrett: "I did not send richo a title"
+
+Firmware boots your system. It's your root of trust. And it's shit.
+Impressively so. Find out how, and how people are making it better
+
+Matthew has a 28.8bps modem and a killer refresh rate
+
+## Dominic Spill: USBProxy
+
+A USBProxy thing.  Dominic will do something new and yet mildly useless with
+USBProxy.
+
+If Dominic has one ability it's feeling crappy at cons.  If he has more than
+on, computering is somewhere on the list.
+
+## Kaan Kivilcim: When full is only 99.9% full.
+
+A tale about one day worth of effort (maybe two by the time the con comes
+around) looking at Linux's /boot partition. It wasn't what I expected and
+there's some fun to be had.
+
+ls wasn't creative enough to be a web developer. He also wasn't evil enough to
+work with baby killers forever. So now he's content just hoarding everyone's
+data for the foreseeable future.
