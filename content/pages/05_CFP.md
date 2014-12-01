@@ -22,7 +22,7 @@ Wrong Island has an "everyone pays" policy, not dissimilar from PyCon's. The
 intent here is to level the playing field a bit and do away with some of the
 mightier than thou aspects of a lot of hacker cons. This also has a lot to do
 with the fact that as a tiny con in it's first year, we can't afford to pay for
-flights or accommadation either.
+flights or accommodation either.
 
 That said, if you want to come and can't put together the money, submit a talk
 and explain the situation. We can probably work something out.
