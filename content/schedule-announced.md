@@ -19,3 +19,4 @@ them after changing it.
 As a token of gratitude, I've thrown $5 * $badges_sold on top of what was
 already going on the tab.
 
+[schedule]: pages/schedule.html
