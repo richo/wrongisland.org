@@ -17,5 +17,3 @@ we'll have wrong island con in the airport".
 In a crushing tale of woe and sorrow, our captors had considered with the
 weather gods, and saught to constrain us. And constrain us they did, because
 they threatened to not take us to Wellington.
-
-One year has passed since that solemn day, and this time nothing will stop us.

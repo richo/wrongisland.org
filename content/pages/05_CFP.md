@@ -1,20 +1,8 @@
 Title: CFP
 Date: 2014-10-19 14:48
 
-We'd love to have your short (15-20 minute) lightning talk on something
-interesting and nominally computer security related. Leave out the context, we
-want to see your One Weird Trick. Background is best discussed over beers
-afterward where you can work out how much you want to frieNDA this chump in
-anyway.
-
-Please send through:
-
-* Handle:
-* Talk Title:
-* Brief overview:
-* Bio:
-
-To richo@psych0tik.net
+There's not currently a cfp open BUT THERE'S A RUMOUR ONE MIGHT OPEN AT SOME
+POINT.
 
 ## A note about speaking
 
