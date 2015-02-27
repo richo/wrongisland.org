@@ -1,3 +1,6 @@
 [submodule "output"]
 	path = output
 	url = git@github.com:richo/wrongisland.org.git
+[submodule "blueidea"]
+	path = blueidea
+	url = git://github.com/blueicefield/pelican-blueidea.git

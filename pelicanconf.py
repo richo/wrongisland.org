@@ -26,5 +26,7 @@ SOCIAL = (('the twitter', 'https://twitter.com/WrongIslandCon'),
 
 DEFAULT_PAGINATION = False
 
+THEME = "blueidea"
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
