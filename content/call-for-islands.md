@@ -5,7 +5,7 @@ CyberKiwicon is nearly upon us, and a lot of people have been hassling me to fin
 
 From the outset, I was pretty upfront about the fact that I was probably going to run WIC if and when I felt like doing it again; and to be honest I'm just starting to warm up to the idea.
 
-With that said, instead of a boring CFP where I assign you value as a person based on the merits of a few short paragraphs about some research you're thinking abouty doing and feel like a deadline might motivate you for, I'm planning to assess your worth based on **an entire island** that you're submitting as a candidate location for WIC2: The enWrongening.
+With that said, instead of a boring CFP where I assign you value as a person based on the merits of a few short paragraphs about some research you're thinking about doing and feel like a deadline might motivate you for, I'm planning to assess your worth based on **an entire island** that you're submitting as a candidate location for WIC2: The enWrongening.
 
 So, onto the meaty part. Please submit:
 
