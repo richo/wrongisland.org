@@ -1,5 +1,5 @@
 Title: Call For Islands
-Date: 2015-11-13 15:18
+Date: 2015-11-19 15:18
 
 CyberKiwicon is nearly upon us, and a lot of people have been hassling me to find out what the story is with Wrong Island Con this year. It won't be happening in December, and it won't be happening alongside Kiwicon.
 
