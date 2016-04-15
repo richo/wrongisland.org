@@ -1,6 +1,9 @@
 Title: Venue
-Date: 2014-10-15 4:18
+Date: 2016-04-15 14:18
 
-Wrong Island was held at The Twisted Hop:
+Wrong Island is taking place at
 
-   616 Ferry Road, Woolston, Christchurch 8023
+- [Overlook Hall][venue]
+- 209 East Whittley, Avalon, CA  90704
+
+[venue]: http://overlookhall.com/

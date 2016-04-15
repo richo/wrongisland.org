@@ -1,5 +1,5 @@
 Title: When
-Date: 2014-10-15 22:46
+Date: 2016-04-15 14:09
 
-Wrong Island Con took place on Monday the 8th of Dec. Talks kicked off at noon,
-ending around 6, when there'll be an official after party downstairs.
+Wrong Island Con 2.78 will take place on Catalina Island! Specifically, at
+Overlook hall, on the 29th of July 2016.
