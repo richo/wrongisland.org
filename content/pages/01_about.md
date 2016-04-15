@@ -1,19 +1,20 @@
 Title: About
-Date: 2014-10-15 22:46
+Date: 2016-04-15 14:00
 
-In the beginning, there were three aircraft destined for New Zealand. And they
-were righteous. And they were full of goddamn nerds. They embarked from Sydney,
-from Melbourne, and from Brisbane.
+Wrong Island Con is a security conference borne of an unfortunate incident
+involving 3 planes full of nerds trying to get to Kiwicon from Australia.
 
-But the weather gods took offense to our plight, and with great fury and wrath
-did drape a blanket of thickest fog across Wellington, seeking to confuse and
-disorient us.
+The flights were redirected to Christchurch by bad weather in Wellington, which
+caused more than a couple of people to ask them to "Let us off the damn plane,
+we'll have WrongIslandCon". Unfortunately, they wouldn't, but the idea grabbed
+some traction and in 2014 the first Wrong Island Con took place in
+Christchurch.
 
-When finally our noble steeds' stamina was depleted, our noble captains
-directed us to the nearest port, to Christchurch, and while repairs were made,
-we used our pocket telephones to congregate. And lo, it was declared: "Fuck it,
-we'll have wrong island con in the airport".
+Wrong Island Con is a little different than a lot of security conferences.
+Instead of long speaking slots with lightning talks supporting, the *only*
+speaking slots at WIC are 20 minute talks. The goal is to make the format both
+more approachable, and significantly more interesting.
 
-In a crushing tale of woe and sorrow, our captors had considered with the
-weather gods, and saught to constrain us. And constrain us they did, because
-they threatened to not take us to Wellington.
+By having shorter slots, we can accept research that's potentially nicher or
+more esoteric, and both expose people to techniques they wouldn't ordinarily
+see.
