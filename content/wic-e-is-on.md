@@ -30,7 +30,7 @@ island to do it on, if I do say so myself.
 
 As per last year, it's $50. Unlike last year, I have my shit together a tiny little bit more, and so it'll cost you 50 American Dollars to get in.
 
-I'll open registration in the next week or so.
+You can buy tickets [here][tickets]
 
 ## Administrivia
 
@@ -43,3 +43,4 @@ The [CFP][cfp] is now open, as is the [call for sponsors][cfs]. Now is a great t
 [venue]: http://overlookhall.com/
 [cfp]: /pages/cfp.html
 [cfs]: /pages/call-for-sponsors.html
+[tickets]: https://www.eventbrite.com.au/e/wrong-island-con-2718-tickets-24691427725
