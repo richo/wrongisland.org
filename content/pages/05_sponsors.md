@@ -9,6 +9,11 @@ With a huge thanks to our sponsors from the last time around:
 - [Great Scott Gadgets](https://greatscottgadgets.com)
 - [Insomnia Security](https://www.insomniasec.com/home)
 
+And this year's sponsors:
+
+- [Threatbutt](https://threatbutt.com)
+- [ice9.us](ice9.us)
+
 We're now actively seeking sponsorship for this year's WIC!
 
 If you're interested in sponsoring the conference, or finding out what we can
