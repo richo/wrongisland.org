@@ -12,7 +12,7 @@ With a huge thanks to our sponsors from the last time around:
 And this year's sponsors:
 
 - [Threatbutt](https://threatbutt.com)
-- [ICE9 Consulting](ice9.us)
+- [ICE9 Consulting](http://ice9.us)
 
 We're now actively seeking sponsorship for this year's WIC!
 
