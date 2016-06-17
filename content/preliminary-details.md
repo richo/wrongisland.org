@@ -21,6 +21,10 @@ leaders in viking grade protection for advanced APT threats.
 If you're in a position where you'd love to come to the con, but can't afford
 to, reach out. Threatbutt has sponsored some tickets.
 
+We're also stoked to announce the support of [ICE9 Consulting](http://ice9.us),
+an extremely serious firm of bluetooth experts who're sponsoring the badges
+(Spoilers: they're fucking awesome).
+
 ## Speakers!
 
 The first round of speakers are announced:
