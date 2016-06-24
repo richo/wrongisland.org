@@ -32,10 +32,6 @@ Stoked to announce some more speakers!
 
     Memory Corruption bugs in classic zelda games
 
-### nico
-
-    Walking tour of L-band satellite communications
-
 ## Papers
 
 Despite a bunch of great submissions, the CFP is still open! We'd love to have
