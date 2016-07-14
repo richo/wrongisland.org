@@ -14,6 +14,7 @@ And this year's sponsors:
 - [Threatbutt](https://threatbutt.com)
 - [ICE9 Consulting](http://ice9.us)
 - [Mercury ISS](http://mercuryiss.com.au)
+- [Great Scott Gadgets](https://greatscottgadgets.com/)
 
 We're now actively seeking sponsorship for this year's WIC!
 
