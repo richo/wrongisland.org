@@ -70,20 +70,6 @@ I presently work in aircraft communications/flight systems
 with a prior experience in surgical electronics and neural
 interfaces.
 
-### Peter Filmore
-
-    Low level NFC fuckery with GNURadio
-
-So how does RFID and NFC actually freakin' work and how
-far can one actually read your bank card?
-
-This talk is to show what happens at the low level with
-NFC communications.
-
-Peter likes ducks of the upright persuasion, designing
-curvy PCBs and occasionally performs work on payment
-terminals when he runs out of money.
-
 ### irq
 
     spying on (redacted) web conference meetings

@@ -26,10 +26,6 @@ I've been super remiss in not mentioning that we picked up a sponsor last week.
 
 We have more of them!
 
-### Peter Filmore
-
-    Low level NFC fuckery with GNURadio
-
 ### irq
 
     spying on (redacted) web conference meetings
