@@ -74,13 +74,14 @@ interfaces.
 
     spying on (redacted) web conference meetings
 
-In this talk I will go over a python app that I wrote
-which allows you to find meeting rooms of (redacted)
-users.
+What do you do when you’ve got too many meetings at work? Spy on some other
+companies’ meetings! This talk covers the tools and techniques for discovering
+publicly available meeting rooms on a popular teleconferencing platform and
+logging in to them.
 
-I've been a network engineer, worked in Incident Response,
-and Secure Development Lifecycle. I'm now a part of a red
-team where I get paid to break things.
+I've been a network engineer, worked in Incident Response, and on Secure
+Development Life Cycle. Currently I am part of a red team where I get paid to
+break things and scare people.
 
 ### Sam Stewart
 
